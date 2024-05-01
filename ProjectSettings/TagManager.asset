@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Character
+  - Enemy
+  - Stick
+  - Potion
+  - Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2533830825
+    locked: 0
+  - name: Floor
+    uniqueID: 3370405081
+    locked: 0
+  - name: Item
+    uniqueID: 1447399623
+    locked: 0
+  - name: Character
+    uniqueID: 1248330647
+    locked: 0
+  - name: Slime
+    uniqueID: 3437653843
+    locked: 0
+  - name: Front
+    uniqueID: 2308762785
+    locked: 0
