@@ -2,15 +2,16 @@
 遊戲程式設計Project2
 
 # How to Play
-Goal: Touch the pink hammer.
-Fail: Player HP goes to zero or player fall from height.
+Goal: Reach the pink hammer.
+Failure: Player HP reaches zero or player falls from a height.
 
-Blue potion increase magic energy.
-Red potion increase life.
+Blue potions increase magic energy.
 
-Bulletproof shield and flame ring comsume magic energy.
+Red potions restore HP.
 
-Controller:
+The Bulletproof Shield and Flame Ring consume magic energy.
+
+Controls:
 - WASD
     - Movement
 - Space
@@ -22,6 +23,6 @@ Controller:
 
 *Executable file in /Build/GP_HW2.exe*
 
-See screen shots in **Introduction.pdf**
+See screenshots in **Introduction.pdf**
 
 *IDE: Unity 2020.3*
